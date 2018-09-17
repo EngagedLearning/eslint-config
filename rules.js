@@ -114,7 +114,6 @@ module.exports = {
     "import/first": "error",
     "import/named": "error",
     "import/namespace": "error",
-    "import/newline-after-import": "error",
     "import/no-absolute-path": "error",
     "import/no-duplicates": "error",
     "import/no-mutable-exports": "error",
@@ -122,7 +121,6 @@ module.exports = {
     "import/no-named-as-default-member": "error",
     "import/no-unresolved": "error",
     "import/no-useless-path-segments": "error",
-    "import/order": "error",
 
     "promise/always-return": "error",
     "promise/catch-or-return": "error",
