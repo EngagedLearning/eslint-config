@@ -102,7 +102,6 @@ module.exports = {
     "prefer-spread": "error",
     "prefer-template": "error",
     "require-atomic-updates": "error",
-    "require-await": "error",
     "require-yield": "error",
     "use-isnan": "error",
     "valid-typeof": "error",
