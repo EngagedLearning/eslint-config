@@ -4,4 +4,4 @@
 
 ## Install
 
-    $ yarn add --dev @enlearn/eslint-config eslint-config-prettier eslint-plugin-import eslint-plugin-promise
+    $ yarn add --dev @enlearn/eslint-config eslint-config-prettier eslint-plugin-import eslint-plugin-promise eslint-plugin-jest
