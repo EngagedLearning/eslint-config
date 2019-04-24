@@ -12,7 +12,18 @@ module.exports = {
     "no-class-assign": "error",
     "no-compare-neg-zero": "error",
     "no-cond-assign": "error",
-    "no-console": ["warn", { allow: ["group", "endGroup", "warn", "error"] }],
+    "no-console": [
+      "warn",
+      {
+        allow: [
+          "group",
+          "endGroup",
+          "warn",
+          "error",
+          "assert"
+        ]
+      }
+    ],
     "no-const-assign": "error",
     "no-constant-condition": "error",
     "no-control-regex": "error",
