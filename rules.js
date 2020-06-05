@@ -13,7 +13,7 @@ module.exports = {
     "no-compare-neg-zero": "error",
     "no-cond-assign": "error",
     "no-console": [
-      "warn",
+      "error",
       {
         allow: [
           "group",
